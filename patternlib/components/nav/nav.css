@@ -1,0 +1,33 @@
+/* nav.css */
+
+.nav {
+
+}
+
+.nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+.nav li {
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+.nav_main {
+	color: inherit;
+	display: inline-block;
+}
+
+.nav_main a {
+	color: inherit;
+	display: inline-block;
+	padding: 1rem;
+	transition: background-color linear 200ms;
+}
+
+.nav_main a:hover {
+	background: #444;
+
+}

@@ -1,0 +1,26 @@
+/* docs.css */
+
+.language-xml {
+	border: solid 1px #666;
+	margin: 0 0 2rem 0;
+	padding: 1rem;
+	border-radius: 0.5rem;
+	color: #fff;
+	display: block;
+	background: #333;
+}
+
+.language-xml .title {
+	color: #ff0066;
+}
+.language-xml .tag {
+	color: #fff;
+}
+
+.language-xml .attribute {
+	color: #8ee01d;
+}
+
+.language-xml .value {
+	color: #e4e06d;
+}

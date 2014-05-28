@@ -1,0 +1,17 @@
+.pull {
+	float: left;
+}
+
+.push {
+	float: right;
+}
+
+.bg-primary {
+	background-color: #ff0066;
+	color: #fff;
+}
+
+
+.txt-center {
+	text-align: center;
+}

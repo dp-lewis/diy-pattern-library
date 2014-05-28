@@ -1,0 +1,20 @@
+/* forms.css */
+
+.form {
+
+}
+
+.form input {
+	font-size: 1rem;
+	padding: 0.5rem;
+}
+
+.form--group {
+	margin-bottom: 1rem;
+}
+
+.form_horizontal label {
+	display: block;
+	font-size: 0.8rem;
+	font-weight: 700;
+}

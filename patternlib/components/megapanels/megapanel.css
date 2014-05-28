@@ -1,0 +1,15 @@
+.megapanel {
+	text-align: center;
+	padding: 3rem;
+	border-radius: 1rem;
+}
+
+.megapanel--heading {
+	line-height: 1;
+}
+
+@media all and (min-width: 40em) {
+	.megapanel--heading {
+		font-size: 4rem;
+	}
+}

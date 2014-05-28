@@ -1,0 +1,9 @@
+<nav class="nav nav_main">
+<ul>
+{{#each pages}}
+	{{#isnt basename "index"}}
+	<li><a href="{{basename}}.html">{{data.title}}</a></li>
+	{{/isnt}}
+{{/each}}
+</ul>
+</nav>
